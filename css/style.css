@@ -323,6 +323,9 @@ textarea {
 .ba-blog-post__bg article {
 	position: relative;
 }
+.ba-blog-post__link {
+	color: #FFF;
+}
 .ba-blog-posts__elements {
 	display: flex;
 	flex-direction: column;
@@ -378,7 +381,7 @@ textarea {
 	align-items: center;
 	padding: 61px 0 42px;
 }
-.ba-contact-body p {
+.ba-contact-body__text {
 	width: 32%;
 	text-align: center;
 	margin: 0;
